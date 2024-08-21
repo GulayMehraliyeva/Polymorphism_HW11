@@ -1,0 +1,14 @@
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\bin\Debug\net6.0\Polymorphism - Homework11.exe
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\bin\Debug\net6.0\Polymorphism - Homework11.deps.json
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\bin\Debug\net6.0\Polymorphism - Homework11.runtimeconfig.json
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\bin\Debug\net6.0\Polymorphism - Homework11.dll
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\bin\Debug\net6.0\Polymorphism - Homework11.pdb
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\obj\Debug\net6.0\Polymorphism - Homework11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\obj\Debug\net6.0\Polymorphism - Homework11.AssemblyInfoInputs.cache
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\obj\Debug\net6.0\Polymorphism - Homework11.AssemblyInfo.cs
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\obj\Debug\net6.0\Polymorphism - Homework11.csproj.CoreCompileInputs.cache
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\obj\Debug\net6.0\Polymorphism - Homework11.dll
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\obj\Debug\net6.0\refint\Polymorphism - Homework11.dll
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\obj\Debug\net6.0\Polymorphism - Homework11.pdb
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\obj\Debug\net6.0\Polymorphism - Homework11.genruntimeconfig.cache
+C:\Users\gulay\Desktop\HWs\Polymorphism - Homework11\Polymorphism - Homework11\obj\Debug\net6.0\ref\Polymorphism - Homework11.dll
